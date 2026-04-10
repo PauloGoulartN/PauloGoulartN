@@ -7,9 +7,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloGoulartN&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloGoulartN&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PauloGoulartN&show_icons=true&theme=tokyonight" height="195" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PauloGoulartN&layout=compact&theme=tokyonight" height="195" />
+</p>
 
 ---
 
