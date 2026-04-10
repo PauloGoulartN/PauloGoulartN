@@ -7,7 +7,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PauloGoulartN&show_icons=true&theme=tokyonight" height="195" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PauloGoulartN&layout=compact&theme=tokyonight" height="195" />
 </p>
