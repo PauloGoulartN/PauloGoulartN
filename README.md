@@ -40,4 +40,4 @@
 ### ⚡ Sobre mim
 Sempre buscando aprender algo novo e transformar conhecimento em prática 🚀
 
-![Snake animation](https://github.com/PauloGoulartN/PauloGoulartN/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/PauloGoulartN/PauloGoulartN/output/github-contribution-grid-snake.svg)
