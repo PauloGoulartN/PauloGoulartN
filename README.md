@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-|  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PauloGoulartN&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PauloGoulartN&layout=compact&theme=tokyonight) |
+| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=PauloGoulartN&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PauloGoulartN&layout=compact&theme=tokyonight) |
 
 ---
 
