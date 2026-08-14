@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=false&vCenter=true&width=650&lines=👋+Olá!+Eu+sou+o+Paulo+Goulart" alt="Typing SVG" /></a>
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-💻 Técnico em Desenvolvimento de Sistemas 
+💻 Técnico em Desenvolvimento de Sistemas
 
 ---
 
