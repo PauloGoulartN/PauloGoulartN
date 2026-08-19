@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PauloGoulartN&theme=tokyonight) | ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PauloGoulartN&layout=compact&theme=tokyonight) |
+| ![GitHub Streak](https://streak-stats.demolab.com?user=PauloGoulartN&theme=tokyonight) | ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PauloGoulartN&layout=compact&theme=tokyonight) |
 
 ---
 
@@ -30,6 +30,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Paulo-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Paulo-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Paulo-Vite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
 </div>
 
 ### 📫 Contato
