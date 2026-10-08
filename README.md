@@ -1,7 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=false&vCenter=true&width=650&lines=👋+Olá!+Eu+sou+o+Paulo+Goulart" alt="Typing SVG" /></a>
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-💻 Técnico em Desenvolvimento de Sistemas
+💻 Técnico em Desenvolvimento de Sistemas  
+🚀 Foco atual em **Front-end (React)** — rumo ao **Full Stack (PERN)**
 
 ---
 
@@ -9,7 +10,7 @@
 
 | | |
 |---|---|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=PauloGoulartN&theme=tokyonight) | ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PauloGoulartN&layout=compact&theme=tokyonight) |
+| ![GitHub Streak](https://streak-stats.demolab.com?user=PauloGoulartN&theme=tokyonight) | ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PauloGoulartN&layout=compact&theme=tokyonight&hide=java) |
 
 ---
 
@@ -34,6 +35,24 @@
   <img align="center" alt="Paulo-Vite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
 </div>
 
+### 🔜 Próximos passos
+
+Próximo semestre: **Node.js** e **Express**, para fechar a stack PERN.
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Paulo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Paulo-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+</div>
+
+---
+
+### 📌 Projetos em destaque
+
+- **Ilha dos Titãs** — site com painel integrado para um servidor de The Isle (Evrima), projeto real em produção. [🔗 Ver online](https://ilhadostitas.com.br/)
+- **[Gerenciador de Tarefas](https://github.com/PauloGoulartN/Gerenciador-De-Tarefas)** — app de tarefas em React, focado em praticar componentização e React Hooks. [🔗 Ver online](https://gerenciador-de-tarefas-chi-bay.vercel.app)
+
+---
+
 ### 📫 Contato
 
 <div> 
@@ -48,6 +67,8 @@
 ---
 
 ### ⚡ Sobre mim
-Sempre buscando aprender algo novo e transformar conhecimento em prática 🚀
+Estudante de tecnologia construindo projetos para colocar em prática o que aprendo no curso.  
+Hoje estou focado em **React** e, no próximo semestre, parto para o back-end com **Node.js e Express**.  
+Aberto a oportunidades de **estágio** e a trocar ideias sobre desenvolvimento web 🚀
 
 ![Snake animation](https://raw.githubusercontent.com/PauloGoulartN/PauloGoulartN/output/github-contribution-grid-snake.svg)
